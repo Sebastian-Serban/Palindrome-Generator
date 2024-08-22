@@ -5,3 +5,4 @@ for i in range(a, b + 1):
     r = o[:: -1]
     if (o == r):
         print(o)
+        
